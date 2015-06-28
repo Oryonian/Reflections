@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 When you initialize a repository all the version control features of git become available for the directory.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The staging area provides an intermediary area between the file changes and changes to be commited in the next commit. This allows some changes to be commited but not others at the developer's discretion.
