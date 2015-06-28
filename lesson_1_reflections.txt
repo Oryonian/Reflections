@@ -1,0 +1,7 @@
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+
+With manual commits you get logical seperations between commits but it is prone to user error due to forgetting to commit. With automatic commits it eliminates the issue of the issue forgetting to commit, but the seperation between commits won't make sense.
+
+How can you use the commands git log and git diff to view the history of files?
+
+git log will show a summary of the history of commits with a message entered by the person commiting. git diff can be used to show the differences between two commits
